@@ -8,4 +8,5 @@ Caratteristiche Principali:
 
 3) Documentazione Automatica: Ogni script è stato documentato utilizzando commenti chiari nel codice. Inoltre, la documentazione viene generata automaticamente utilizzando Sphinx, si può accedere facilmente a informazioni dettagliate sulle funzioni e sul loro utilizzo. Questo rende più semplice per chi osserva comprendere e utilizzare il codice senza dover analizzare eccessivamente la logica dietro ogni funzione.
 
-Per visionare la documentazione col tema scelto bisogna installarlo dal cmd con il seguente comando: "pip install sphinx_rtd_theme".
+-Il file html si trova all'interno della cartella "_build".
+-Per visionare la documentazione col tema scelto bisogna installarlo dal cmd con il seguente comando: "pip install sphinx_rtd_theme".
