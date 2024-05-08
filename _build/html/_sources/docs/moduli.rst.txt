@@ -1,0 +1,45 @@
+moduli package
+==============
+
+Submodules
+----------
+
+moduli.es01 module
+------------------
+
+.. automodule:: moduli.es01
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+moduli.es02 module
+------------------
+
+.. automodule:: moduli.es02
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+moduli.es03 module
+------------------
+
+.. automodule:: moduli.es03
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+moduli.es04 module
+------------------
+
+.. automodule:: moduli.es04
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module contents
+---------------
+
+.. automodule:: moduli
+   :members:
+   :undoc-members:
+   :show-inheritance:
